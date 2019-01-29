@@ -22,6 +22,7 @@
 * **Translations**
    * is every new field added for translation (i18n) ?
    * is message.xlf changed accordingly ?
+   * prepush
 * **Memory leaks**
    * is there any possibility for a memory leak ?
    * is every subscribtion finished on component destroy ?
